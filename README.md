@@ -8,3 +8,5 @@ I am learning:
 - Node.js and Express.js
 
 My goal is to become a Software Developer.
+
+I am practicing Git pull.
