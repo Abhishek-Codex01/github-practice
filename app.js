@@ -4,3 +4,4 @@ console.log(message);
 // Learning git diff
 // Learning staged changes
 // Practicing unstaging changes
+// Practicing Git branches
